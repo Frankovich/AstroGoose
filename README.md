@@ -1,4 +1,4 @@
-# @theAstroGoose on Twitter
+# [@theAstroGoose](https://twitter.com/theAstroGoose) on Twitter
 
 **I am The Astro Goose. I detect Asteroids. Honk!**
 
